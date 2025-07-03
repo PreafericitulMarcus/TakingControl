@@ -1,14 +1,14 @@
 # Self Host 
-Watching PewDiePie's video inspired me to take the steps in order to take control of my digital footprint.
+Watching PewDiePie's [video](https://youtu.be/u_Lxkt50xOg?si=SDcBdVsH5MwVnAHd) inspired me to take the steps in order to take control of my digital footprint.
 
 Here is what I did:
 
 ## Before -> After
 
-GBoard -> Heliboard<br />
-WhatsApp -> Signal<br />
-Google Tasks -> Super Productivity
-
+GBoard &rarr; Heliboard<br> 
+WhatsApp &rarr; Signal<br>
+Google Tasks &rarr; Super Productivity<br>
+Note taking &rarr; Joplin 
 
 ## Self Hosting on local server
 
