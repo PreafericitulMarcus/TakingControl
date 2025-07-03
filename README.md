@@ -8,7 +8,6 @@ Here is what I did:
 GBoard -> Heliboard
 
 WhatsApp -> Signal
-
 Google Tasks -> Super Productivity
 
 
