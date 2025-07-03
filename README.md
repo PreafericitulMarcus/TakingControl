@@ -5,7 +5,7 @@ Here is what I did:
 
 ## Before -> After
 
-GBoard &rarr; Heliboard<br> 
+GBoard &rarr; [Heliboard](HeliBoard)<br> 
 WhatsApp &rarr; Signal<br>
 Google Tasks &rarr; Super Productivity<br>
 Note taking &rarr; Joplin<br>
