@@ -10,6 +10,7 @@ WhatsApp &rarr; Signal<br>
 Google Tasks &rarr; Super Productivity<br>
 Note taking &rarr; Joplin<br>
 Youtube on Android &rarr; NewPiepe<br>
+Google Authentificator &rarr; 2FAS Auth<br>
 
 ## Self Hosting on local server
 
