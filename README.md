@@ -8,7 +8,8 @@ Here is what I did:
 GBoard &rarr; Heliboard<br> 
 WhatsApp &rarr; Signal<br>
 Google Tasks &rarr; Super Productivity<br>
-Note taking &rarr; Joplin 
+Note taking &rarr; Joplin<br>
+Youtube on Android &rarr; NewPiepe<br>
 
 ## Self Hosting on local server
 
