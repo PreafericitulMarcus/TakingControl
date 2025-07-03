@@ -1,3 +1,5 @@
+[HeliBoard Github](https://github.com/Helium314/HeliBoard)
+
 This folder contains how I customised HeliBoard
 
 # Why use HeliBoard
