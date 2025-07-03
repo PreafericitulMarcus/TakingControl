@@ -5,9 +5,8 @@ Here is what I did:
 
 ## Before -> After
 
-GBoard -> Heliboard
-
-WhatsApp -> Signal
+GBoard -> Heliboard<br />
+WhatsApp -> Signal<br />
 Google Tasks -> Super Productivity
 
 
