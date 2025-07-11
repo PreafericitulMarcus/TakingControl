@@ -1,4 +1,4 @@
-# Self Host 
+# Taking Control
 Watching PewDiePie's [video](https://youtu.be/u_Lxkt50xOg?si=SDcBdVsH5MwVnAHd) inspired me to take the steps in order to take control of my digital footprint.
 
 Here is what I did:
