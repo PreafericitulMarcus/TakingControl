@@ -7,10 +7,11 @@ Here is what I did:
 
 GBoard &rarr; [Heliboard](HeliBoard)<br> 
 WhatsApp &rarr; Signal<br>
-Google Tasks &rarr; Super Productivity<br>
-Note taking &rarr; Joplin<br>
+Google Tasks &rarr; Work in progress<br>
+Note taking &rarr; MNote<br>
 Youtube on Android &rarr; NewPiepe<br>
-Google Authentificator &rarr; 2FAS Auth<br>
+Google Authentificator &rarr; Bitwarden<br>
+Nord Pass &rarr; Bitwarden<br>
 
 ## Self Hosting on local server
 
