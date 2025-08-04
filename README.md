@@ -16,7 +16,7 @@ Here is what I did:
 ## Self Hosting on local server
 Main purpose of the server is for learning experience. 
 
----
+
 About the server:
 
  &emsp; On an old desktop I installed Ubuntu Server and set on a journey of learning about self hosting.
@@ -29,6 +29,8 @@ Content on the server:<br>
  &emsp;       - [SearXNG](https://github.com/searxng/searxng)<br>
  &emsp;       - [NextCloud](https://nextcloud.com/)<br>
 
+---
+<br>
 Connecting locally for these is easy, but I want to connect remotely and give access to some services to family and friends.
 
 I found there are 3 main options to access these features remotely:<br>
