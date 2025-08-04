@@ -24,19 +24,17 @@ About the server:
  
 
 ---
-Content on the server:
-
-      - [Jellyfin](https://jellyfin.org/) ( currently in development )
-      - [SearXNG](https://github.com/searxng/searxng)
-      - [NextCloud](https://nextcloud.com/)
+Content on the server:<br>
+ &emsp;       - [Jellyfin](https://jellyfin.org/) ( currently in development )<br>
+ &emsp;       - [SearXNG](https://github.com/searxng/searxng)<br>
+ &emsp;       - [NextCloud](https://nextcloud.com/)<br>
 
 Connecting locally for these is easy, but I want to connect remotely and give access to some services to family and friends.
 
-I found there are 3 main options to access these features remotely:
-
-    - [Tailscale](https://tailscale.com/) ( which is easy but not suitable for sharing )
-    - Port Forwarding ( I found that opening ports to the public leads to a lot of maintenance )
-    - Domain + [Cloudflare](https://www.cloudflare.com/)
+I found there are 3 main options to access these features remotely:<br>
+ &emsp;     - [Tailscale](https://tailscale.com/) ( which is easy but not suitable for sharing )<br>
+ &emsp;     - Port Forwarding ( I found that opening ports to the public leads to a lot of maintenance )<br>
+ &emsp;     - Domain + [Cloudflare](https://www.cloudflare.com/)<br>
 
 I went with Domain + Cloudflare
 
