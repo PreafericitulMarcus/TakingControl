@@ -20,7 +20,6 @@ Roadmap:
 ```
     sudo grub-reboot "Windows Boot Manager (on /dev/sdX)"
     sudo reboot
-
 ```
 
 Wait a bit.  And you should be in Windows.
@@ -32,13 +31,15 @@ When you finish your Windows session just restart and you will be back on Ubuntu
 For an easier time i created a script "changeWindows.sh" with
 
 ```
-#!/bin/bash
-
-sudo grub-reboot "windows Boot Manager (on /dev/sdX)" #change here sdX with your partition.
-sudo reboot
+    #!/bin/bash
+    
+    sudo grub-reboot "windows Boot Manager (on /dev/sdX)" #change here sdX with your partition.
+    sudo reboot
 ```
-then chmod u+x changeWindows.sh
-
+Save and change permission:
+```
+    chmod u+x changeWindows.sh
+```
 <br>
 
 
