@@ -51,7 +51,7 @@ For just a casual remote use of a computer Parsec is definitely the best.
 
 To set up Parsec you just [download](https://parsec.app/downloads) on both the Host and Client, Log in and enjoy.
 
-The other method is to:
+The other method is to:<br>
 [Download Sunshine](https://github.com/LizardByte/Sunshine?tab=readme-ov-file) on Host machine ( Windows in my case ).<br>
 [Download Moonlight](https://github.com/moonlight-stream/moonlight-qt) on Client.<br>
 Optional: If you want to remote access outside local network<br> 
